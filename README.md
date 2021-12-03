@@ -1,8 +1,8 @@
 ## Olá, eu sou a Sara! Seja bem-vinde ao meu GitHub!
 
-Sou formada em Biblioteconomia e Gestão (UFRJ) e comecei a me interessar bastante pela área da tecnologia após fazer um treinamento em desenvolvimento Full Stack pela Gama Academy, em parceira com a VTEX.
-Atualmente, estou aprimorando minhas habilidades em Front-end.
-Pronomes: ela/dela.
+- Sou formada em Biblioteconomia e Gestão (UFRJ) e comecei a me interessar bastante pela área da tecnologia após fazer um treinamento em desenvolvimento Full Stack pela Gama Academy, em parceira com a VTEX.
+- Atualmente, estou aprimorando minhas habilidades em Front-end.
+- Pronomes: ela/dela.
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=saralopescorrea">
@@ -13,7 +13,7 @@ Pronomes: ela/dela.
 <div align="center"> 
   <a href="https://www.linkedin.com/in/saralopescorrea" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/890294902955573308/890294902955573310" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <a href="mailto:saralopes0203@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="mailto:saralopes0203@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
