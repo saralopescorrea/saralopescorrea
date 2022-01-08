@@ -1,7 +1,7 @@
 ## Olá, eu sou a Sara! Seja bem-vinde ao meu GitHub!
 
 - Sou formada em Biblioteconomia e Gestão (UFRJ) e comecei a me interessar bastante pela área da tecnologia após fazer um treinamento em desenvolvimento Full Stack pela Gama Academy, em parceira com a VTEX, no qual obtive conhecimentos de HTML, CSS e JavaScript.
-- Atualmente, estou aprimorando minhas habilidades em Front-end.
+- Atualmente, estou aprimorando minhas habilidades em JavaScript e aprendendo React.
 - Pronomes: ela/dela.
 
 <div align="center">
